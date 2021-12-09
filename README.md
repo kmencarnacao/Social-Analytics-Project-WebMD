@@ -4,6 +4,11 @@ Python work by Kelvin Encarnacao using pandas, networkx, matplotlib, sentiment a
 
 data from https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset
 
+Project description:
+Social analytics project utilizing both text analytics and network analysis
+tools demonstrating social analytical tools in business context.
+
+
 Project Goals:
 
 What can we learn regarding drug associations and adverse effects from reviews?
