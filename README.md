@@ -12,7 +12,10 @@ tools demonstrating social analytical tools in business context.
 Project Goals:
 
 What can we learn regarding drug associations and adverse effects from reviews?
+-networks and connections shown in networks notebook file.
 
 How can we analyze text within reviews to learn about drugs and behavior on WebMD?
+-sentiment analysis and visualizations and comparisons show in text analytics notebook file.
 
 Identify use cases for utilizing processed review data in health and pharma context.
+-specific examples using different drugs to analyze shown in both networks and text analytics files.
