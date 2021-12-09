@@ -1,5 +1,8 @@
 # Social-Analytics-Project-WebMD
 
+#Python work by Kelvin Encarnacao using pandas, networkx, matplotlib, sentiment analysis libraries.
+
+#data from https://www.kaggle.com/rohanharode07/webmd-drug-reviews-dataset
 
 Project Goals:
 
